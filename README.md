@@ -394,6 +394,5 @@ Optimized Model 4 best describes dataset 1.
 ![image](https://github.com/semiano/Model-Optimization-Algorithm/assets/6520366/61da0d54-2ce1-4fd8-ad76-ed97d342587a)
 Optimized Model 4 best describes dataset 3.
 
-Conclusion and Remarks
-
+**Conclusion and Remarks**
 After analyzing all three datasets independently, Model 4 is the best choice to fit the data.  The problem could have been solved a variety of ways.  For instance, the models could have been optimized according to a different method other than the LSE method.  This could have yielded different model results.  Most likely, Model 4 would still be the best fit, since it is the most flexible.
